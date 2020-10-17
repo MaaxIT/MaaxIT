@@ -2,6 +2,6 @@
 
 - ⌨️ I’m a **full-stack** developer.
 - 🔐 I’m passionated by **security & privacy**.
-- 🔭 I’m currently working for my future.
+- 🔭 I’m currently searching for a IT school.
 - 🌱 I’m currently learning Python, VueJS and C++.
 - 📫 How to reach me: **contact@maaxit.fr**.
